@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-11-17T04:27:48.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GHa0xgLT8JAOTlFjGRdg" version="22.1.2" type="github">
+  <diagram name="第 1 页" id="UNW0oEQCLwWRAKxEsIeE">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A2aBfBPlqFl-kJQ_fUHj-1" value="&lt;b&gt;IRF4&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#fad9d5;sketch=1;fontStyle=1;fontSize=31;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="30" y="337" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aBfBPlqFl-kJQ_fUHj-5" value="&lt;b&gt;&amp;nbsp;IL-18 signaling pathway&lt;/b&gt;" style="shape=singleArrow;whiteSpace=wrap;html=1;rotation=0;arrowWidth=0.5297805642633222;arrowSize=0.21354166666666666;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="152" y="340" width="192" height="51.04" as="geometry" />
+        </mxCell>
+        <mxCell id="A2aBfBPlqFl-kJQ_fUHj-6" value="progression" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.6;dx=37;notch=25;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="540" y="341.04" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cVo4YNm314Q9trHuGnvt-2" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(204, 0, 0); font-size: 16px;&quot;&gt;periodontitis&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="660" y="334" width="120" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="cVo4YNm314Q9trHuGnvt-4" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 19px;&quot;&gt;Osteogenic differentiation of periodontal ligament stem cells&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="328" y="302" width="210" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
